@@ -1,0 +1,7 @@
+// Heading Color
+$heading-color: #8f2121;
+
+h1 {
+  color: $heading-color;
+  border-bottom: $heading-color solid 2px;
+}
